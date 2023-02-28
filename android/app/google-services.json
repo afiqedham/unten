@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518882580902",
+    "firebase_url": "https://unten-366216-default-rtdb.firebaseio.com",
+    "project_id": "unten-366216",
+    "storage_bucket": "unten-366216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518882580902:android:91f5668484f05f32b29767",
+        "android_client_info": {
+          "package_name": "com.afiqi.unten_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518882580902-tj9pots9unqghmigsgqtu1c40spmfccb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVQkhHmwu_Mg-TNV79kMR-5Sdd6iSW4qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518882580902-tj9pots9unqghmigsgqtu1c40spmfccb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
